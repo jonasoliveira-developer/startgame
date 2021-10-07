@@ -1,6 +1,6 @@
 ### GameStar
 
-<img src="/assets/banner.png">
+<img src="./src/banner.png">
 
 ### Skills:
 <ul>
